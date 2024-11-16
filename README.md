@@ -5,7 +5,8 @@ From the [SkillFactory Data Sience course](https://skillfactory.ru/data-scientis
 ## Проекты:
 
 * [Проект 0. Игра: Угадай число]().
-* [Проект 1.___]().
+* [Проект 1._Анализ резюме из HeadHunter]().
 * [Проект 2.___]().
 
 ## Ссылка на резюме:
+_____________________
